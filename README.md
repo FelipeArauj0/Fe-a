@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou Felipe
-- 👀 Estou Cursando Analise e desenvolvimento de sistemas, fazendo cursos paralelos como HTML CSS3 e javascript com o professor gustavo guanabara.
+- 👀 Formado em Analise e desenvolvimento de sistemas, fazendo cursos paralelos como HTML CSS3 e javascript com o professor gustavo guanabara.
 - 🌱 Estou interessado em aprender mais e compartilhar o meu aprendizado com outros devs e assim me familiarizar mais com a area, pois estou curtindo bastante.
 
 <!---
